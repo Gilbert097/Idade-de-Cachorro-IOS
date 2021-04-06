@@ -1,5 +1,5 @@
 # Idade-de-Cachorro-IOS
-Primeiro app IOS do curso Desenvolvimento IOS 12 na Udemy, ministrado pelo professor Jamilton Damasceno. Objetivo do app é descobrir a idade de um cachorro em anos humanos. 
+1º app IOS do curso Desenvolvimento IOS 12 na Udemy, ministrado pelo professor Jamilton Damasceno. Objetivo do app é descobrir a idade de um cachorro em anos humanos. 
 
 No desenvolvimento deste app foi possível aprender a utilizar alguns componentes de tela e realizar o bind deles na ViewController para manipular seus valores e eventos.
 
